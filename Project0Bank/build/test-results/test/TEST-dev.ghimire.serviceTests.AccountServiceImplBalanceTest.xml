@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.ghimire.serviceTests.AccountServiceImplBalanceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-24T17:24:27" hostname="DESKTOP-7VTFVBT" time="0.956">
+  <properties/>
+  <testcase name="get_account_by_balance_test_1()" classname="dev.ghimire.serviceTests.AccountServiceImplBalanceTest" time="0.956"/>
+  <system-out><![CDATA[Account{accountId=2, accountType=2, totalBalance=1000.0, ownerId=1}
+Account{accountId=3, accountType=3, totalBalance=1500.0, ownerId=1}
+Account{accountId=5, accountType=2, totalBalance=1000.0, ownerId=2}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

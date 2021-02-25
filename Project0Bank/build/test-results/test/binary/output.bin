@@ -1,0 +1,3 @@
+EAccount{accountId=2, accountType=2, totalBalance=1000.0, ownerId=1}
+EAccount{accountId=3, accountType=3, totalBalance=1500.0, ownerId=1}
+EAccount{accountId=5, accountType=2, totalBalance=1000.0, ownerId=2}

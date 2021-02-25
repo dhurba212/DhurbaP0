@@ -1,0 +1,12 @@
+dev/ghimire/daosTests/AccountTests.java
+ dev.ghimire.daosTests.AccountTests
+dev/ghimire/connectionTests/ConnectionTest.java
+ dev.ghimire.connectionTests.ConnectionTest
+dev/ghimire/serviceTests/AccountServiceImplTest.java
+ dev.ghimire.serviceTests.AccountServiceImplTest
+dev/ghimire/serviceTests/AccountServiceImplBalanceTest.java
+ dev.ghimire.serviceTests.AccountServiceImplBalanceTest
+dev/ghimire/serviceTests/ClientServiceImplTest.java
+ dev.ghimire.serviceTests.ClientServiceImplTest
+dev/ghimire/daosTests/ClientTests.java
+ dev.ghimire.daosTests.ClientTests
